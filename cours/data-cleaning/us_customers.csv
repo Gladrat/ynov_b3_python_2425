@@ -1,0 +1,22 @@
+CustomerID;First_Name;Last_Name;Phone_Number;Address;Tel_opt_in;Newsletter_opt_in;Not_Useful_Column
+1001;Frodo;Baggins;123-545-5421;123 Shire Lane, Shire;Ok;No;VRAI
+1002;Abed;Nadir;123/643/9775;93 West Main Street;No;Yes;FAUX
+1003;Walter;/White;7066950392;298 Drugs Driveway;N;;VRAI
+1004;Dwight;Schrute;123-543-2345;980 Paper Avenue, Pennsylvania, 18503;Yes;Y;VRAI
+1005;Jon;Snow;876|678|3469;123 Dragons Road;Y;No;VRAI
+1006;Ron;Swanson;304-762-2467;768 City Parkway;yes;Yes;VRAI
+1007;Jeff;  Winger;;1209 South Street;No;No;FAUX
+1008;Sherlock;Holmes;876|678|3469;98 Clue Drive;N;No;FAUX
+1009;Gandalf;;N/a;123 Middle Earth;Yes;;FAUX
+1010;Peter;Parker;123-545-5421;25th Main Street, New York;Yes;No;VRAI
+1011;Samwise;Gamgee;;612 Shire Lane, Shire;Yes;No;VRAI
+1012;Harry;...Potter;7066950392;2394 Hogwarts Avenue;Y;;VRAI
+1013;Don;Draper;123-543-2345;2039 Main Street;Yes;N;FAUX
+1014;Leslie;Knope;876|678|3469;343 City Parkway;Yes;No;FAUX
+1015;Toby;Flenderson_;304-762-2467;214 HR Avenue;N;No;FAUX
+1016;Ron;Weasley;123-545-5421;2395 Hogwarts Avenue;No;N;FAUX
+1017;Michael ;Scott;123/643/9775;121 Paper Avenue, Pennsylvania;Yes;No;FAUX
+1018;Clark;Kent;7066950392;3498 Super Lane;ok;;VRAI
+1019;Creed;Braton;N/a;N/a;N/a;Yes;VRAI
+1020;Anakin;Skywalker;876|678|3469;910 Tatooine Road, Tatooine;Yes;N;VRAI
+1020;Anakin;Skywalker;876|678|3469;910 Tatooine Road, Tatooine;Yes;N;VRAI

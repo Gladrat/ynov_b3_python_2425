@@ -1,13 +1,15 @@
-# 📂 Contexte
+# Cas pratique - Data cleaning US Customers
+
+## 📂 Contexte
 
 Le pôle marketing vous a confié un jeu de données clients (`us_customers.csv`) contenant des informations extraites de différentes sources. Ce fichier contient des incohérences, des valeurs manquantes et doit être nettoyé avant intégration dans un outil de data-marketing.
 
-# 🛠️ Contraintes techniques
+## 🛠️ Contraintes techniques
 
 - Utilisez une version optimisée et moderne des instructions Pandas (regex, etc.)
 - Les boucles sont interdites
 
-# 🎯 Objectifs
+## 🎯 Objectifs
 
 1. Charger le dataset
 2. Effectuer une déduplication des données

@@ -10,7 +10,7 @@ Créer une classe Python capable de générer automatiquement des numéros de fa
 2. Elle devra implémenter le protocole des itérateurs (`__iter__()` et `__next__()`).
 3. Le numéro devra :
    - avoir un **préfixe configurable** (par défaut `"FAC"`)
-   - être **paddé à 5 chiffres** (001, 002, …)
+   - être **paddé à 3 chiffres** (001, 002, …)
    - commencer à un **numéro de départ configurable** (par défaut `1`)
 
 ## ✅ Exemple attendu :

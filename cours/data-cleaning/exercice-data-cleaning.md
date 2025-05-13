@@ -17,7 +17,7 @@ Le pôle marketing vous a confié un jeu de données clients (`us_customers.csv`
 4. Supprimer les espaces vides avant et après chaque item
 5. Identifier les lignes qui contiennent au moins une cellule de type `object` ou `string` malformée (3 résultats)  
     a. Converser uniquement les lignes qui ne contiennent pas de cellule maformée
-6. Transformer la colonne `Phone_Number`  
+6. Transformer la colonne `Phone_Number` \
     a. Format attendu : `(xxx) xxx - xxxx`
     b. Les numéros malformés doivent être transformés en `0000000000`
 7. Exploser logiquement la colonne `Address` lorsque c’est possible
